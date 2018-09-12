@@ -8,6 +8,7 @@
       <path value="$PROJECT_DIR$/vendor/atk4/ui" />
       <path value="$PROJECT_DIR$/vendor/atk4/data" />
       <path value="$PROJECT_DIR$/vendor/atk4/dsql" />
+      <path value="$PROJECT_DIR$/vendor/atk4/mastercrud" />
     </include_path>
   </component>
 </project>

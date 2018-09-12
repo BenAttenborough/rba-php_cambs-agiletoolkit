@@ -5,6 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/atk4/core" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/atk4/data" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/atk4/dsql" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/atk4/mastercrud" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/atk4/ui" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/log" />
